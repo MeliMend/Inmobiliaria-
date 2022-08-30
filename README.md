@@ -6,6 +6,6 @@
 
 
 # 📝 url de despliegue 
-
+https://jazzy-syrniki-684a64.netlify.app/
 
 
