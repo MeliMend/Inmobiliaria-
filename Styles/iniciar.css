@@ -1,0 +1,82 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Indie+Flower&family=Ubuntu&display=swap');
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+#imgFilter{
+    background-color:white;
+    height: 700px;
+    
+}
+#img1{
+    position: absolute;
+   width: 100%;
+   margin-top: 335px;
+}
+#title{
+    display: flex;
+  
+    position: absolute;
+    width: 550px;
+    margin-top:60px;
+    left: 160px;
+    font-size: 48px;
+   
+    
+    
+}
+#titleUser{
+    display: flex;
+     position: absolute;
+    width: 550px;
+    top: 280px;
+    left: 430px;
+    font-size: 30px;
+       
+  }
+
+#formInitA{
+    font-family: 'Ubuntu', sans-serif;
+    position: absolute;
+    top: 380px;
+    left: 240px;
+}
+#btnSign{
+     position: absolute;
+     width: 80px;
+    top: 28px;
+    left: 750px;
+    background-color: rgb(3, 46, 5);
+
+}
+
+.img{
+    position: absolute;
+    display: flex;
+    width:300px;
+    margin-top:50px;
+    left: 140px;
+   
+    
+}
+#btn{
+    position: absolute;
+     width: 80px;
+    top: 320px;
+    left: 530px;
+
+}
+.init{
+    position: absolute;
+    top: 750px;
+    left: 500px;
+    text-align: center;
+
+}
+.btnDescrip{
+    background-color: #00C194;
+    color:white;
+     border:5px dotted  #140992;
+    
+
+}

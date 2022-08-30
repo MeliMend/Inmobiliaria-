@@ -1,0 +1,159 @@
+{
+  "propiedades": [
+    {
+      "id": 1,
+      "image": "https://th.bing.com/th/id/OIP.hEAGv_8Ahhp_-a-7p9MraAHaE8?pid=ImgDet&rs=1",
+      "nombre": "Casa Quinta",
+      "tipo": "casa",
+      "precio": "$50000000",
+      "habitaciones": 4,
+      "baños": 2,
+      "area": 1200,
+      "disponibilidad": "venta",
+      "inteligente": "no",
+      "parqueadero": "si",
+      "piscina": "no",
+      "seguridad": "no",
+      "medico": "no",
+      "libreria": "no",
+      "king": "si",
+      "juegos": "si",
+      "descripcion": "Amplia y comoda casa quinta,ubicada en las afueras de la ciudad para un disfrute total",
+      "localizacion": "campo"
+    },
+    {
+      "id": 2,
+      "image": "https://century21mexico.com/media/cache/web/rc/h3ArN9pk/uploads/418/propiedades/368672/5f6bf1d77deb1.JPG",
+      "nombre": "Casa en la ciudad",
+      "tipo": "casa",
+      "precio": "$900000",
+      "habitaciones": 4,
+      "baños": 2,
+      "area": 1200,
+      "disponibilidad": "alquiler",
+      "inteligente": "no",
+      "parqueadero": "si",
+      "piscina": "no",
+      "seguridad": "no",
+      "medico": "no",
+      "libreria": "no",
+      "king": "no",
+      "juegos": "no",
+      "localizacion": "ciudad",
+      "descripcion": "Amplia y comoda casa ,ubicada en la ciudad, cerca de centros comerciales"
+    },
+    {
+      "id": 3,
+      "image": "https://th.bing.com/th/id/R.0c7af10a40549b34af86fc2550a7f7bd?rik=IoT%2bX451c5nDPQ&riu=http%3a%2f%2fapartamentosezcaray.com%2fassets%2fimages%2fapartamentos%2fsuite-estudio%2fIMG_1571_0.jpg&ehk=GzlAwRVFaMaoIua93pi797FNl4%2fIUmUU5yygdcFOHbE%3d&risl=&pid=ImgRaw&r=0",
+      "nombre": "Apartamento segundo piso",
+      "tipo": "Apartamento",
+      "precio": "$60000000",
+      "habitaciones": 4,
+      "baños": 2,
+      "area": 1200,
+      "disponibilidad": "venta",
+      "inteligente": "si",
+      "parqueadero": "no",
+      "piscina": "no",
+      "seguridad": "no",
+      "medico": "no",
+      "libreria": "no",
+      "king": "si",
+      "juegos": "si",
+      "localizacion": "ciudad",
+      "descripcion": "Amplia y comodo apartamento ,ubicada en la ciudad, cerca de centros comerciales"
+    },
+    {
+      "id": 4,
+      "image": "https://th.bing.com/th/id/R.8762e588f6806432371b23e77252ae1e?rik=Fo6egIYivAA%2b0A&pid=ImgRaw&r=0",
+      "nombre": "Apartamento primer  piso",
+      "tipo": "Apartamento",
+      "precio": "$600000000",
+      "habitaciones": 4,
+      "baños": 2,
+      "area": 1200,
+      "disponibilidad": "venta",
+      "inteligente": "si",
+      "parqueadero": "si",
+      "piscina": "no",
+      "seguridad": "no",
+      "medico": "no",
+      "libreria": "no",
+      "king": "si",
+      "juegos": "no",
+      "localizacion": "ciudad",
+      "descripcion": "Lujoso Apartamento ,ubicada en la ciudad, cerca de centros comerciales"
+    },
+    {
+      "id": 5,
+      "image": "https://th.bing.com/th/id/R.4142f487acf7a35913fc6ed788fe3b3b?rik=2VpgBoDTQYSswA&pid=ImgRaw&r=0",
+      "nombre": "Cabaña",
+      "tipo": "cabaña",
+      "precio": "$2000000",
+      "habitaciones": 2,
+      "baños": 1,
+      "area": 900,
+      "disponibilidad": "alquiler",
+      "inteligente": "no",
+      "parqueadero": "si",
+      "piscina": "no",
+      "seguridad": "no",
+      "medico": "no",
+      "libreria": "no",
+      "king": "si",
+      "juegos": "no",
+      "localizacion": "campo",
+      "descripcion": "Acogedora cabaña,ubicada a las afueras de la ciudad, con un ambiente tranquilo"
+    },
+    {
+      "id": 7,
+      "image": "https://www.suenosytierras.com/actualidad/wp-content/uploads/2016/07/casas-campestres.jpg",
+      "nombre": "Casa campestre",
+      "tipo": "cabaña",
+      "precio": "$250000000",
+      "habitaciones": 5,
+      "baños": 2,
+      "area": 900,
+      "disponibilidad": "venta",
+      "inteligente": "si",
+      "parqueadero": "si",
+      "piscina": "si",
+      "seguridad": "si",
+      "medico": "si",
+      "libreria": "si",
+      "king": "si",
+      "juegos": "no",
+      "localizacion": "campo",
+      "descripcion": "Amplia y lujosa casa,ubicada a las afueras de la ciudad, con un ambiente tranquilo"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "email": "melisa@gmail.com",
+      "contraseña": "melisa"
+    },
+    {
+      "id": "4c275fea-cbe9-42b3-9f5f-f5112b834b01",
+      "email": "melisamendozamogollon@gmail.com",
+      "contraseña": "ffff"
+    }
+  ],
+  "userAdmi": [
+    {
+      "id": 1,
+      "email": "melisa@gmail.com",
+      "contraseña": "melisam"
+    },
+    {
+      "id": "02ddb1ad-74df-4188-add9-a37a560af96e",
+      "email": "melisamendozamogollon@gmail.com",
+      "contraseña": "ee"
+    },
+    {
+      "id": "beb08bcb-88bb-4342-a323-f518f547c6d9",
+      "email": "manuelmerchan.duque@gmail.com",
+      "contraseña": "4444"
+    }
+  ]
+}

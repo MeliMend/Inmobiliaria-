@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Indie+Flower&family=Ubuntu&display=swap');
+
+#imgFilter{
+    background-color:white;
+    height: 700px;
+    
+}
+#img1{
+   width: 100%;
+  
+}
+
+.img{
+    
+    display: flex;
+    width:300px;
+    margin-top:50px;
+    left: 140px;
+   
+    
+}
+#formSearch{
+    left:160px !important ;
+    top: 350px !important;
+    
+    
+}
+#botones{
+    left: 160px !important ;
+    top: 311px !important;
+}
+#check{
+    position: absolute;
+    display: flex;
+    left: 880px !important ;
+    top: 390px !important; 
+    width:1000px;
+}
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.btnDescrip{
+    background-color: #00C194;
+    color:white;
+    
+
+}
+.card-body{
+    align-items: center;
+    text-align: center;
+}
+.card{
+    margin-top: 10px;
+}
+.icons{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    position: absolute;
+    left:700px;
+   
+}
+.icons li{
+    margin-left: 30px;
+    width: 20px;
+}
+.heart{
+    position: absolute;
+    left:900px;
+}
